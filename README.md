@@ -33,3 +33,10 @@ ESP32 ile e-posta göndermek için SMTP server'a alternatif olarak IFTTT adlı b
 ![enter image description here](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2021/09/ESP32-Reed-Switch-door-sensor-circuit.png?resize=578,500&quality=100&strip=all&ssl=1)
 
   Manyetik anahtarı GPIO 4'e bağladık, ancak uygun herhangi bir GPIO'ya bağlayabiliriz.
+  
+  ## Çalışma
+  
+  ![enter image description here](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2021/09/Sending-request-IFTTT-ESP32-Serial-Monitor.png?w=601&quality=100&strip=all&ssl=1)
+  
+  Kapı durumu her değişikliğe uğradığında IFTTT hizmetine belirttiğimiz mail adresimize "closed" yada "open" olacak şekilde bildirim alacağız.
+
