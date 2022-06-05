@@ -8,7 +8,9 @@ Bu projede, bir ESP32 kartı ve bir manyetik anahtar (reed switch) kullanarak bi
 #  Projeye Genel Bakış
 
 Kapının açık veya kapalı olup olmadığını algılamak için kolayca bir kapıya, pencereye veya çekmeceye uygulayabileceğimiz plastik bir kabuk içine yerleştirilmiş bir manyetik anahtarı kullanacağız.
+
 ![enter image description here](https://image.made-in-china.com/202f0j00bVZYwnydKlcs/Fbmc32-Magnetic-Reed-Switch-Sensor.jpg)
+
 Anahtarın yakınında bir mıknatıs olduğunda elektrik devresi kapanır—kapı kapalıdır. Mıknatıs anahtardan çok uzakta olduğunda (kapı açıkken) devre açıktır.
 
 ##   IFTTT ile E-posta Gönderme
